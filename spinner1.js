@@ -19,4 +19,4 @@ setTimeout(() => {
 
 setTimeout(() => {
   process.stdout.write('\rHiiiiii')
-}, 1000);
+}, 900);
